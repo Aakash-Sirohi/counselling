@@ -27,6 +27,10 @@
 .App-link {
   color: #61dafb;
 }
+.ul{
+  list-style-type: none;
+  color: blue;
+}
 
 @keyframes App-logo-spin {
   from {
@@ -36,3 +40,23 @@
     transform: rotate(360deg);
   }
 }
+
+.main-header{
+  color: rgb(17, 17, 17);
+  background-color: rgb(252, 231, 231);
+  
+}
+
+.logo{
+  padding-right: 20%;
+}
+
+
+
+
+.GridItem{
+padding-top: 30px;
+text-decoration: none;
+width: 100px;
+}
+
